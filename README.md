@@ -11,7 +11,9 @@ In this repository, you'll find all the projects from my new career. I invite yo
 
 [![Photoshop](https://img.shields.io/badge/Photoshop-darkblue?style=for-the-badge)]() [![Illustrator](https://img.shields.io/badge/Illustrator-orange?style=for-the-badge)]()
 
-[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)]() [![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]() [![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)]() [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=css&logoColor=white)]()
+
 
 - Graphik Designer Tools: Photoshop, Illustrator
 - Backend Technologies: Python
+- Frontend Technologies: HTML5, CSS, JavaScript
