@@ -1,3 +1,5 @@
+![Banner con logos](/fondo_mi_perfil.png)
+
 # Hi! I'm Paula Martinez Giraudo
 ### Graphik Designer since 2010 and Junior Developer since 2025
 My name is Paula, and I've been a graphic designer for many years. In March 2025, I began training to become a full-stack developer as part of my career renewal.
