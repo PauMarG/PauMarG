@@ -1,4 +1,4 @@
-![Banner con logos](/fondo_mi_perfil.png)
+<img src="/fondo_mi_perfil.png" alt="Banner con logos" width="100%">
 
 # Hi! I'm Paula Martinez Giraudo
 ### Graphik Designer since 2010 and Junior Developer since 2025
